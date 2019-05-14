@@ -11,6 +11,11 @@ ejecutar el comando : npm i ó npm install
 Verificar la version de node, este projecto está hecho con la ultima version
 
 
+### Pruebas
+
+Para ejecutar el programa de forma automatica puedes ejecutar el  (npm run serve)
+
+
 
 
 ## Authors
