@@ -14,4 +14,4 @@ Verificar la version de node, este projecto está hecho con la ultima version
 
 
 ## Authors
-* **Alexis Higuita** - [PurpleBooth](https://github.com/Alexiu5)
+* **Alexis Higuita** - [Perfil](https://github.com/Alexiu5)
