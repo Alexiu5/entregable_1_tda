@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "node index.js prematricular --id=1 -n=DefaultName -c=123456789 "
+    "serve": "node index.js inscribir --id=4 -n=DefaultName -c=123456789 "
   },
   "author": "Alexis Higuita",
   "license": "ISC",
