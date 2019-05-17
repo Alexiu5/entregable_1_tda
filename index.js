@@ -30,6 +30,7 @@ if(argv.idcurso){
         const infoEstudiante = {...cursoSeleccionado,idcurso,nombre,cedula}
 
         fs.writeFileSync('estudiantesEscritos.json', JSON.stringify(infoEstudiante))
+        console.log(`estudiante ${nombre} con CC. ${cedula} prematriculado`)
     }else{
         console.error('no se encontró curso')
         printCourses()
