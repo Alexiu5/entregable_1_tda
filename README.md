@@ -13,7 +13,7 @@ Verificar la version de node, este projecto está hecho con la ultima version
 
 ### Pruebas
 
-Para ejecutar el programa de forma automatica puedes ejecutar el  (npm run serve)
+Para ejecutar el programa de forma automatica puedes ejecutar el  (npm run id_incorrecto o id_correcto)
 
 
 

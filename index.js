@@ -32,8 +32,14 @@ if(argv.idcurso){
         fs.writeFileSync('estudiantesEscritos.json', JSON.stringify(infoEstudiante))
     }else{
         console.error('no se encontró curso')
+        printCourses()
     }
 }else{
+    printCourses()
+}
+
+
+function printCourses(){
     let delay = 0;
     for(let curso of cursos){
         delay += 2000
